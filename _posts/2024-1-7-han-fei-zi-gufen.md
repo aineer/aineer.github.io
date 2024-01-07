@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: [韩非子] 孤愤
+title: 韩非子《孤愤》
 author: 韩非子
 categories: [抄录, 韩非子]
 ---
