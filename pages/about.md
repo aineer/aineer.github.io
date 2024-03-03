@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 关于我
+title: 關於我
 ---
 
 > 念沈沈、小閣幽窗，有時夢去
