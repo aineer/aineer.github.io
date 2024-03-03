@@ -5,7 +5,7 @@ author: Two
 categories: [音樂, 搖滾]
 ---
 
-## 收录本人喜欢的摇滚专辑
+## 收錄本人喜歡的搖滾專輯
 
 1. **Bob Dylan:**
     1. Highway 61 Revisited
