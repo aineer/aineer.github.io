@@ -2,7 +2,7 @@ encoding: utf-8
 
 # SEO相关信息
 title: Two Blog
-description: 世事洞明皆学问，人情练达即文章。
+description:
 keywords: foobar
 author: Two
 footerText:
@@ -27,17 +27,17 @@ tucaoUrl:
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
-  - title: 首页
+  - title: 首頁
     url: /
-  - title: 归类
+  - title: 歸類
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: 友链
+  - title: 友情鏈接
     url: /pages/links.html
   #- title: 留言
   #  url: /pages/chat.html
-  - title: 关于
+  - title: 關於
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false
@@ -60,7 +60,7 @@ links:
 
   - title: Two Blogger
     url: https://fossusera.blogspot.com
-    desc: 玩原神玩的
+    desc: 我的 Google blogger
 
   - title: 一把江湖刀
     url: https://jianghudao.top
