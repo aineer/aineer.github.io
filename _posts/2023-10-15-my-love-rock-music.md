@@ -1,8 +1,8 @@
 ---
 layout: mypost
-title: 我喜爱的摇滚专辑
+title: 我喜愛的搖滾專輯
 author: Two
-categories: [音乐, 摇滚]
+categories: [音樂, 搖滾]
 ---
 
 ## 收录本人喜欢的摇滚专辑
@@ -132,20 +132,17 @@ categories: [音乐, 摇滚]
 28. **The Buggles:**
     1. The Age Of Plastic
 
-29. **曹方：**
-    1. 遇见我
-
-30. **ASIAN KUNG-FU GENERATION:**
+29. **ASIAN KUNG-FU GENERATION:**
     1. Sol-fa
 
-31. **U2:**
+30. **U2:**
     1. War
 
-32. **Panchiko:**
+31. **Panchiko:**
     1. D>E>A>T>H>M>E>T>A>L
 
-33. **Oldfield, Mike:**
+32. **Oldfield, Mike:**
     1. Tubular Bells
 
-34. **Neil Young**
+33. **Neil Young**
     1. After The Gold Rush

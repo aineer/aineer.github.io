@@ -1,8 +1,8 @@
 ---
 layout: mypost
-title: 韩非子《孤愤》
-author: 韩非子
-categories: [抄录, 韩非子]
+title: 韓非子《孤墳》
+author: 韓非子
+categories: [抄錄, 韓非子]
 ---
 
 > 抄写韩非子著名文章《孤愤》。

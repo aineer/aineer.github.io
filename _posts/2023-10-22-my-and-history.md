@@ -1,8 +1,8 @@
 ---
 layout: mypost
-title: 我与历史
+title: 我與歷史
 author: Two
-categories: [历史, 人文社科]
+categories: [歷史, 人文社科]
 ---
 
 ## 更新于 2023年10月22日

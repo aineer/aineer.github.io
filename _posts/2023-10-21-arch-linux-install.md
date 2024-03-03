@@ -2,7 +2,7 @@
 layout: mypost
 title: Arch Linux 安装教程
 author: Two
-categories:  [Arch Linux, GNU/Linux, 自由软件, 操作系统]
+categories:  [Arch Linux, GNU/Linux, 自由軟件, 操作系統]
 ---
 
 > 更新于2023年10月21日
