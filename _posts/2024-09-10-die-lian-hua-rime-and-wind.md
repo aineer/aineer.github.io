@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 蝶戀花 - 小雨絲絲風細細
+title: 蝶戀花 小雨絲絲風細細
 author: Two
 categories: [蝶戀花, 詞]
 ---
