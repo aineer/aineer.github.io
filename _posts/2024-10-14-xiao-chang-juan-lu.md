@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 淡黃柳 - 小城倦旅
+title: 淡黃柳 - 小城捲旅
 author: Two
 categories: [淡黃柳, 詞]
 ---
