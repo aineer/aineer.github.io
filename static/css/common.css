@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'ShangguSerif';
+  font-display: fallback;
+  src: url('../font/ShangguSerif-Regular.ttf');
+}
+
 html {
   color: #333333;
   background: #ffffff;
@@ -5,10 +11,10 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
-  text-size-adjust: 130%;
+  text-size-adjust: 100;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Cascadia Code', Consolas, Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+  font-family: 'Cascadia Code', Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
   overflow-y: overlay;
 }
 html[transition] {
