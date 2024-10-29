@@ -2,10 +2,10 @@ html {
   color: #333333;
   background: #ffffff;
   scroll-behavior: smooth;
-  -ms-text-size-adjust: 170%;
-  -webkit-text-size-adjust: 130%;
-  -moz-text-size-adjust: 170%;
-  text-size-adjust: 110;
+  -ms-text-size-adjust: 100;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-size-adjust: 100;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Cascadia Code', Consolas, Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
@@ -135,7 +135,7 @@ input:-webkit-autofill {
 }
 .footer {
   padding: 15px 0;
-  font-size: 14px;
+  font-size: 20px;
 }
 .footer a {
   text-decoration: underline;
