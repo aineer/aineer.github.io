@@ -8,7 +8,7 @@ html {
   text-size-adjust: 100;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Cascadia Code', Consolas, Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+  font-family: 'Times New Roman', Code Pro, Consolas, Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
   overflow-y: overlay;
 }
 html[transition] {
@@ -149,7 +149,7 @@ input:-webkit-autofill {
   width: 32px;
   height: 32px;
   cursor: pointer;
-  background-color: rgba(67, 149, 62, 0.4);
+  background-color: rgba(0, 0, 0, 0.4);
   border-radius: 2px;
   display: flex;
   align-items: center;
