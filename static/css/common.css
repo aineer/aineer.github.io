@@ -149,15 +149,15 @@ input:-webkit-autofill {
   width: 32px;
   height: 32px;
   cursor: pointer;
-  background-color: rgba(0, 0, 0, 0.4);
-  border-radius: 20px;
+  background-color: rgba(67, 149, 62, 0.4);
+  border-radius: 2px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 0;
 }
 .footer-btn i {
-  font-size: 50px;
+  font-size: 22px;
   background-color: #ffffff;
 }
 .footer-btn.theme-toggler {
