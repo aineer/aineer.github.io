@@ -1,8 +1,8 @@
 ---
 layout: mypost
-title: 鳳凰臺上憶吹簫
-author: Two
-categories: [鳳凰臺上憶吹簫, 詞, 女孩, 回憶]
+title: 鳳凰臺上憶吹簫 - 觀湖春水
+author: Two 
+categories: [女孩, 鳳凰臺上憶吹簫, 詞]
 ---
 
 > 紀念我年少時的一位同我玩樂的少女。
