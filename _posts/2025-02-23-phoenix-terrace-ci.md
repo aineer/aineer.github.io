@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 鳳凰臺上憶吹簫 - 觀湖春水
+title: 鳳凰臺上憶吹簫
 author: Two
 categories: [鳳凰臺上憶吹簫, 詞, 女孩, 回憶]
 ---
