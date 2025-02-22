@@ -2,7 +2,7 @@
 layout: mypost
 title: 鳳凰臺上憶吹簫 - 觀湖春水
 author: Two
-categories: [鳳凰臺上憶吹簫, 詞, 少年, 羈旅, 女孩]
+categories: [鳳凰臺上憶吹簫, 詞, 孩童, 女孩, 回憶]
 ---
 
 > 紀念我年少時的一位同我玩樂的少女。
