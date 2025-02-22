@@ -1,11 +1,9 @@
 ---
 layout: mypost
 title: 鳳凰臺上憶吹簫 - 觀湖春水
-author: Two 
-categories: [女孩, 鳳凰臺上憶吹簫, 詞]
+author: Two
+categories: [鳳凰臺上憶吹簫, 女孩, 詞]
 ---
-
-> 紀念我年少時的一位同我玩樂的少女。
 
 觀湖春水，正風好處，對岸秀影凝立。
 才道那、日上梅初、細未開均。
